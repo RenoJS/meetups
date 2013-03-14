@@ -17,4 +17,8 @@ All javascripters welcome! Front-end, back-end, etc.
 We'll be discussing Backbone.js and the JavaScript rich client ecosystem.   
 Do you have some JavaScript code that needs some love? Bring it!
 
+
+### Third Meeting - 18 March 2013 - Testing JavaScript
+Do you test your JavaScript? And no, deploying doesn't count. There are better ways! We'll be covering JavaScript test suites like qUnit, Mocha, and Jasmine. We'll also discuss automated browser testing and continuous integration.
+
 [Check out the wiki for more information](https://github.com/RenoJS/meetups/wiki)!
